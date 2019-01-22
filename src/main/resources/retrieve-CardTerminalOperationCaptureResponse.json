@@ -1,0 +1,21 @@
+{
+  "cardTransactionProductInstanceReference" : "CTPIR5377",
+  "cardTransactionMerchantReference" : "CTMR7700",
+  "cardTransactionInterchargeFee" : "1",
+  "cardTransactionIssuingBankReference" : "CTIR5589",
+  "cardPOSTerminalOperationCaptureTaskRecord" : {},
+  "cardPOSTerminalOperatingSessionReference" : "COSR4568",
+  "cardTransactionType" : "Refund",
+  "cardTransactionMerchantAcquiringBankReference" : "CTAR7933",
+  "cardPOSTerminalOperationCaptureTaskReference" : "CTOCR2014",
+  "cardTransactionLocationReference" : "CTLR6549",
+  "cardTransactionCurrency" : "USD",
+  "cardTransactionAmountType" : "original amount",
+  "cardTransactionFXConversionCharge" : "Fixed",
+  "cardTransactionNetworkReference" : "CTNR6377",
+  "cardTransactionProductServiceReference" : "CTSR6687",
+  "cardTransactionDateTime" : "09-22-2018",
+  "cardTransactionRecordReference" : "CTRR9634",
+  "cardTransactionAmount" : "120",
+  "cardTransactionAuthorizationRecord" : {}
+}

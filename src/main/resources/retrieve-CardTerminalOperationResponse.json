@@ -1,0 +1,5 @@
+{
+  "cardPOSTermainalOperatingServiceConfiguration" : "Configuration 1",
+  "cardPOSTerminalOperatingSchedule" : "0 15 15 ? * *",
+  "cardPOSTerminalOperatingSessionReference" : "COSR4568"
+}
